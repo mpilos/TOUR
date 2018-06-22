@@ -1,0 +1,131 @@
+<html>
+<title>
+</title>
+<head></head>
+<body>
+
+<div class="container">
+
+<div class="side-pane">
+<img src="enhle.jpg">
+</div>
+
+<div class="content">
+
+<h1>INTRODUCTION</h1>
+<p>I am Esther Nompilo Mofokeng born and raised in Tembisa,I've studied Information Technology and Computer science.</p>
+<p>Ive now joined Code Tribe Academy Program where i'm doing a 6 month training of being a software developer.</p>
+
+<h1>SKILLS</h1>
+<p>I am fluent in Isizulu,highly motivated and love working towards a common goal with a team of bright minds and gig hearts</p>
+<p>I am extremely a fast learner and open to trying most things atleast once.Overall i'm a person who is confident in her ability to communicate and connect with others.</p>
+
+<h1>ACADEMIC AND CARRER-RELATED INTEREST</h1>
+
+<p> Iam very interest in Project management career as it was the only subject i excelled in college.</p>
+<p>I also have a little bit of interest in mobile developing because i want to see what it took to develop an app.</p
+
+<h1>FAVOURITE CLASSES</h1>
+
+<p>Computer Programming</p>
+<p>Project Management</p>
+
+<h1>HOBBIES AND INTEREST</h1>
+
+<ul>
+<p><li>Camping</li></p>
+<p><li>Cooking</li></p>
+<p><li>Yoga</li></p>
+</ul>
+
+</div>
+<h1><centre>The Curriculum Vitae</centre></h1>
+
+
+  
+
+
+<table style="width :70%">
+    <h2>EDUCATIONAL  QUALIFICATIONS<h2>
+    
+
+    <tr>
+    <th>Diploma/Degree/High Certificate</th>\
+    <th>Institution</th>
+    <th>Year</th>
+    </tr>
+      
+     <tr>
+    <td>National Certificate Vocational</td>
+    <td>National Certificate (Matric)</td>
+    <td>2013</td>
+
+    </tr>
+       <tr>
+    <td>Ekurhuleni West TVET college</td>
+    <td>Boitumelong Senior Secondary School</td>
+    <td>2017</td>
+       </tr>
+
+
+</table>
+
+<table style="width :70%">
+
+<h2>WORK EXPERIENCE</h2>
+
+ <tr>
+<th>Company Name</th>
+<th>Position</th>
+<th>Year</th>
+</tr>
+
+<tr>
+<td>Wimpy</td>
+<td>Soft Serve</td>
+<td>2018</td/>
+</tr>
+
+<tr>
+<td>Soft Serve</td>
+<td>Developer Trainee</td>
+<td>2018</td>
+
+</tr>
+
+</table>
+
+
+<table style="width :70%">
+
+<h2>REFERENCES</h2>
+
+  <tr>
+<th>Name(s)</th>
+<th>Contact Details</th>
+ </tr>
+
+<tr>
+<td>Bennie</td>
+<td>0746577685</td>
+
+</tr>
+
+<tr>
+<td>Motebang</td>
+<td>0657689083</td>
+</tr>
+
+
+</table>
+
+<p><a href="About Nompilo.html">About</a></p>
+
+
+
+
+/div>
+</div>
+
+</body>
+</html>
